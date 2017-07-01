@@ -1,1 +1,2 @@
-# Swift_chart_FIrebase
+# gestion-empresarial-ios
+Gestión Empresarial para IOS

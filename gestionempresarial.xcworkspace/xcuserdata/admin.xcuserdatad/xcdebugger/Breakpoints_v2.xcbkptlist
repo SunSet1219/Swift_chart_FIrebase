@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift"
+            timestampString = "514633096.86106"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "914"
+            endingLineNumber = "914"
+            landmarkName = "setUpViewController(_:targetViewController:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SlideMenuControllerSwift.SlideMenuController.(setUpViewController in _A211E102B8C02515D2FAFA7DCE2F3201) (__ObjC.UIView, targetViewController : Swift.Optional&lt;__ObjC.UIViewController&gt;) -&gt; ()"
+                  moduleName = "SlideMenuControllerSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/gestion-empresarial-ios/Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift"
+                  timestampString = "514633243.245041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "914"
+                  endingLineNumber = "914"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SlideMenuControllerSwift.SlideMenuController.(setUpViewController in _A211E102B8C02515D2FAFA7DCE2F3201) (__ObjC.UIView, targetViewController : Swift.Optional&lt;__ObjC.UIViewController&gt;) -&gt; ()"
+                  moduleName = "SlideMenuControllerSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/admin/Desktop/gestion-empresarial-ios/Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift"
+                  timestampString = "514633243.249058"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "914"
+                  endingLineNumber = "914"
+                  offsetFromSymbolStart = "73">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift"
+            timestampString = "514633210.957276"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "715"
+            endingLineNumber = "715"
+            landmarkName = "changeLeftViewController(_:closeLeft:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift"
+            timestampString = "514633212.32616"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "724"
+            endingLineNumber = "724"
+            landmarkName = "changeRightViewController(_:closeRight:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
